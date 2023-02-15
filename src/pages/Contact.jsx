@@ -15,9 +15,6 @@ function Contact() {
       <div>
         <iframe src="https://yandex.ru/map-widget/v1/?um=constructor%3A28a690c80f3232534083e5849ed5e8085940d5f03914bfad0608944cdea02139&amp;source=constructor" width="100%" height="350px" frameborder="0"></iframe>
       </div>
-      <div className="footer">
-        <p>Cover template for <a href="*">Bootstrap</a>, by <a href="*">@mdo</a>.</p>
-      </div>
     </>
   );
 }

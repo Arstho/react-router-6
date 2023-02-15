@@ -10,9 +10,6 @@ function Features() {
 
           Примеры встроенных функций вы уже видели – это alert(message), prompt(message, default) и confirm(question). Но можно создавать и свои.</p>
       </div>
-      <div className="footer">
-        <p>Cover template for <a href="*">Bootstrap</a>, by <a href="*">@mdo</a>.</p>
-      </div>
     </>
   );
 }

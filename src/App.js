@@ -22,6 +22,9 @@ function App() {
         <Route path='/features' element={<Features />} />
         <Route path='/contact' element={<Contact />} />
       </Routes>
+      <div className="footer">
+        <p>Cover template for <a href="*">Bootstrap</a>, by <a href="*">@mdo</a>.</p>
+      </div>
     </div>
   );
 }
